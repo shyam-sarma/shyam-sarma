@@ -33,9 +33,19 @@ me.say_hi()
 ### 🛠️ What I'm Building
 
 **[Lunara Labs](https://lunaralabs.io)** — The gold standard in agentic analytics.  
-Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the queries, `Atlas` understands your data semantically, and `Quill` generates the reports. Built for data teams who are tired of dashboards that don't answer back.
+Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the queries, `Atlas` understands your data semantically, and `Quill` generates the reports — including AI-generated presentation decks powered by Gemini's image generation. Built for data teams who are tired of dashboards that don't answer back.
 
+*Validated at scale: 2,000+ queries/week, 600+ users at Walmart Canada.*
 
+---
+
+### 🚀 Featured Projects
+
+| | Project | Description | Link |
+|---|---|---|---|
+| 🔮 | **Lunara Labs** | Agentic BI platform with 3 AI agents — Luna (SQL), Atlas (Semantic/RAG), Quill (Reports + AI slide generation via Gemini). Built on A2A + MCP + AG-UI. Validated at 2,000+ queries/week serving 600+ users. | [![Website](https://img.shields.io/badge/Lunara_Labs-000?style=flat-square&logo=vercel&logoColor=white)](https://lunaralabs.io) |
+| 🗺️ | **Italy Trip Planner** | Full-stack trip planner built entirely through a Claude conversation. Next.js + Supabase + Vercel with real-time sync for two users, smart warnings engine, per-city budgets, and day-by-day planner. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shyam-sarma/italy-trip-planner) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://shyamitaly-trip-planner.vercel.app) |
+| 🎨 | **Gemini Image Editor** | AI-powered image editing tool using Google's Gemini image generation API. Edit, transform, and generate images with natural language prompts. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shyam-sarma) |
 
 ---
 
