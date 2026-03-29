@@ -2,7 +2,7 @@
 class MeghashyamSarma:
     def __init__(self):
         self.name = "Meghashyama Sarma"
-        self.role = "Founder & CEO @ Lunara Labs"
+        self.role = "Lead Gen AI Engineer @ Walmart.  Founder @ Lunara Labs"
         self.background = "10+ years building data & analytics platforms"
         self.languages = ["Python", "TypeScript", "SQL", "JavaScript"]
         self.stack = {
