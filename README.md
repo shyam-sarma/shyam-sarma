@@ -77,14 +77,13 @@ Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the quer
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam-sarma&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-sarma&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-sarma&theme=github_dark" width="49%" />
-</p>
-
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/meghashyamasarma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td align="center"><a href="https://x.com/shyamagowra"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a></td>
+    <td align="center"><a href="https://lunaralabs.io"><img src="https://img.shields.io/badge/Lunara_Labs-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a></td>
+  </tr>
+</table>
 ---
 
 ### 🔗 Find Me
