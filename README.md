@@ -80,11 +80,9 @@ Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the quer
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam-sarma&theme=github_dark" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-sarma&theme=github_dark" width="32%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shyam-sarma&theme=github-dark-blue&hide_border=true" width="34%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-sarma&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-sarma&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-sarma&theme=github_dark" width="49%" />
 </p>
 
 ---
