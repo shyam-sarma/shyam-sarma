@@ -77,6 +77,17 @@ Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the quer
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyam-sarma&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-sarma&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyam-sarma&theme=github_dark" width="49%" />
+</p>
+---
+
+### 🔗 Find Me
+
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/meghashyamasarma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
@@ -84,11 +95,3 @@ Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the quer
     <td align="center"><a href="https://lunaralabs.io"><img src="https://img.shields.io/badge/Lunara_Labs-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a></td>
   </tr>
 </table>
----
-
-### 🔗 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghashyamasarma/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shyamagowra)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CoderPath)
-[![Website](https://img.shields.io/badge/Lunara_Labs-000000?style=flat-square&logo=vercel&logoColor=white)](https://lunaralabs.io)
