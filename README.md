@@ -35,7 +35,7 @@ me.say_hi()
 **[Lunara Labs](https://lunaralabs.io)** — The gold standard in agentic analytics.  
 Not another text-to-SQL bot. A multi-agent platform where `Luna` writes the queries, `Atlas` understands your data semantically, and `Quill` generates the reports. Built for data teams who are tired of dashboards that don't answer back.
 
-*Validated at scale: 2,000+ queries/week, 600+ users at Walmart Canada.*
+
 
 ---
 
